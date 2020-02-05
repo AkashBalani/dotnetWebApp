@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akashbalani/Documents/DevOps Assignments/webapp2/webapp2.csproj",
+      "projectUniqueName": "/Users/akashbalani/Documents/DevOpsAssignments/webapp2/webapp2.csproj",
       "projectName": "webapp2",
-      "projectPath": "/Users/akashbalani/Documents/DevOps Assignments/webapp2/webapp2.csproj",
+      "projectPath": "/Users/akashbalani/Documents/DevOpsAssignments/webapp2/webapp2.csproj",
       "packagesPath": "/Users/akashbalani/.nuget/packages/",
-      "outputPath": "/Users/akashbalani/Documents/DevOps Assignments/webapp2/obj/",
+      "outputPath": "/Users/akashbalani/Documents/DevOpsAssignments/webapp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akashbalani/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
